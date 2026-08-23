@@ -149,7 +149,7 @@ A private messaging application built with **Django Channels**, WebSockets, and 
 </p>
 
 <p align="center">
-<a href="https://github.com/cnafateh/PrivateReal-timeChat">
+<a href="https://github.com/cnafateh/PrivateReal-timeChatPlatform">
 <img src="https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github">
 </a>
 </p>
