@@ -2,6 +2,8 @@
 
 <div align="center">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="./assets/profile-hero-mobile-static.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/profile-hero-static.svg">
     <source media="(max-width: 640px)" srcset="./assets/profile-hero-mobile.svg">
     <img src="./assets/profile-hero.svg" width="100%" alt="Sina Fateh — Backend Engineer. From the first endpoint to production.">
   </picture>
